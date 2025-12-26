@@ -1,6 +1,6 @@
 ## # 👩🏻‍💻 Matheus dos Santos Luiz 
 
-**`Analista de dados`**
+**`Analista de dados | Desenvolvedor de Software`**
 
 Me chamo Matheus dos Santos Luiz, resido em São Paulo, sou técnico em eletroeletrônica e atualmente estudante de Ciência da Computação, me dedicando adqurir e aprimorar conhecimentos em tecnologia, com um forte interesse em analise de dados e desenvolvimento de software.
 
